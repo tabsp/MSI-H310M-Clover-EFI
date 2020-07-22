@@ -53,4 +53,8 @@ MacOS 10.15.5 (19F2200)
     sudo cp -r DisplayVendorID-610 /System/Library/Displays/Contents/Resources/Overrides
     ```
 
+## update
 
+稳定运行 11 天
+
+![uptime](images/uptime.png)
